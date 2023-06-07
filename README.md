@@ -12,8 +12,8 @@ This month I am delivering a course I designed, of 20 1-2.5 hour sessions, for [
 from Code for America to Civic Tech Structure, Inc. 501(c)(3)
 
 ## What else am I doing
-I created a non profit called Civic Tech Structure and I serve as its president.  
-I am the volunteer Executive Director of Hack for LA.  
+I created a non profit called [Civic Tech Structure](https://civictechstructure.org) and I serve as its president.  
+I am the volunteer Executive Director of [Hack for LA](https://www.hackforla.org/).  
 
 --- 
 ## Other places you can find me
