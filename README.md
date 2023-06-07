@@ -36,3 +36,9 @@ GitHub Social Impact transfered ownership of the [MERL Center](https://merlcente
 - I am the current volunteer Executive Director of [Hack for LA](https://www.hackforla.org/). 
 
 </details>
+
+
+<!-- 
+GitHub: [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+GitHub: [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+ -->
