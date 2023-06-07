@@ -9,7 +9,7 @@ This month I am delivering a course I designed, of 20 1-2.5 hour sessions, for [
 - [Course Overview](https://dpgoscm.github.io/community-manager-training/overview.html)
 - [Course Dashboard](https://dpgoscm.github.io/community-manager-training/)
 
-### Helping to transfer Hack for LA to a new fiscal sponsor
+#### Helping to transfer Hack for LA to a new fiscal sponsor
 from Code for America to Civic Tech Structure, Inc. 501(c)(3) aka CTS
 
 #### Setting up the MERL Center under its new fiscal sponsor
