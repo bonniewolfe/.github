@@ -24,7 +24,7 @@ Moving Hack for LA from Code for America to Civic Tech Structure, Inc. 501(c)(3)
 <details>
 <summary>Setup details</summary>
 
-GitHub Social Impact transfered ownership of the MERL Center to CTS in May, and we are finishing the setup of the new tools, transfer of assets from 3 parties, hiring team members and making changes to the website.
+GitHub Social Impact transfered ownership of the [MERL Center](https://merlcenter.org) to CTS in May, and we are finishing the setup of the new tools, transfer of assets from 3 parties, hiring team members and making changes to the website.
 
 </details>
 
