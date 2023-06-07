@@ -12,4 +12,10 @@ This month I am delivering a course I designed, of 20 1-2.5 hour sessions, for G
 from Code for America to Civic Tech Structure, Inc. 501(c)(3)
 
 ## What else am I doing
-I created a non profit called Civic Tech Structure and I serve as its president.  In that capacity, I am the Executive Director of Hack for LA.  You can see my github profile for that here [github.com/experiementsinhonesty](https://github.com/experiementsinhonesty)
+I created a non profit called Civic Tech Structure and I serve as its president.  
+I am the volunteer Executive Director of Hack for LA.  
+
+--- 
+## Other places you can find me
+- <img src="https://github.com/bonniewolfe/bonniewolfe/assets/107153148/0ab69100-53bb-421a-986e-ef54ab11844f" width=20px alt="GitHub"> Hack for LA and personal [github.com/experiementsinhonesty](https://github.com/experiementsinhonesty)
+- <img src="https://github.com/bonniewolfe/bonniewolfe/assets/107153148/e624e5fc-bc32-4b49-b28b-148a164075da" width=20px alt="linkedIn"> [linkedin.com/in/bonnieawolfe](https://linkedin.com/in/bonnieawolfe)
