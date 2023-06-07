@@ -13,5 +13,3 @@ from Code for America to Civic Tech Structure, Inc. 501(c)(3)
 
 ## What else am I doing
 I created a non profit called Civic Tech Structure and I serve as its president.  In that capacity, I am the Executive Director of Hack for LA.  You can see my github profile for that here [github.com/experiementsinhonesty](https://github.com/experiementsinhonesty)
-
-- 
