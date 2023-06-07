@@ -7,8 +7,8 @@ Hi! 👋
 <summary>Course details</summary>
 
 This month I am delivering a course I designed, of 20 1-2.5 hour sessions, for [GitHub Social Impact](https://socialimpact.github.com), where I am a contractor.  Take a look at some of the pages I threw together to help administer the program.  I made other things too, but you can see it all on the dashboard.
-     - [Course Overview](https://dpgoscm.github.io/community-manager-training/overview.html)
-     - [Course Dashboard](https://dpgoscm.github.io/community-manager-training/)
+- [Course Overview](https://dpgoscm.github.io/community-manager-training/overview.html)
+- [Course Dashboard](https://dpgoscm.github.io/community-manager-training/)
 
 </details>
 
