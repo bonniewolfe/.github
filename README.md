@@ -3,7 +3,7 @@ Hi! 👋
 ## This is a good place to find out What I am up to this week/month, etc.
 ### June 2023
 #### Teaching a course on `How to be an effective Community Manager` for [GitHub Social Impact](https://socialimpact.github.com)
-<details>
+<details open>
 <summary>Course details</summary>
 
 This month I am delivering a course I designed, of 20 1-2.5 hour sessions, for [GitHub Social Impact](https://socialimpact.github.com), where I am a contractor.  Take a look at some of the pages I threw together to help administer the program.  I made other things too, but you can see it all on the dashboard.
