@@ -4,7 +4,7 @@ This is a good place to find out What I am up to this week/month, etc.
 
 ## What am I doing this month?
 ### June 2023
-This month I am delivering a course I designed, of 20 1-2.5 hour sessions, for GitHub Social Impact, where I am a contractor.  Take a look at some of the pages I threw together to help administer the program.  I made other things too, but you can see it all on the dashboard.
+This month I am delivering a course I designed, of 20 1-2.5 hour sessions, for [GitHub Social Impact](https://socialimpact.github.com), where I am a contractor.  Take a look at some of the pages I threw together to help administer the program.  I made other things too, but you can see it all on the dashboard.
 - [Course Overview](https://dpgoscm.github.io/community-manager-training/overview.html)
 - [Course Dashboard](https://dpgoscm.github.io/community-manager-training/)
 
