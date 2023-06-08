@@ -42,3 +42,15 @@ GitHub Social Impact transfered ownership of the [MERL Center](https://merlcente
 GitHub: [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 GitHub: [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
  -->
+ 
+ 
+ ---
+ 
+ <!-- ----------- GITHUB STATS SECTION ------------ -->
+
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonniewolfe&show_icons=true&count_private=true&theme=react" />
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=bonniewolfe&theme=react" />
+  
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ----------- GITHUB STATS SECTION END ------------ -->
