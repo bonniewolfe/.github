@@ -46,11 +46,4 @@ GitHub: [Quickstart for writing on GitHub](https://docs.github.com/en/get-starte
  
  ---
  
- <!-- ----------- GITHUB STATS SECTION ------------ -->
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonniewolfe&show_icons=true&count_private=true&theme=react" />
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=bonniewolfe&theme=react" />
-  
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- ----------- GITHUB STATS SECTION END ------------ -->
